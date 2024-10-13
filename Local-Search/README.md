@@ -10,10 +10,10 @@ simulated annealing algorithm.
 6. Run hill climbing for sample inputs using hamming-distance and manhattan-distance and log the results in a report. Similarly, run simulated annealing for sample inputs using hamming-distance and manhattan-distance and log the results in the same report.
 
 *Goal State: (assume 0 means blank)*
-:---:|:---:|:----:
 | 0 | 1 | 2 |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
+|:---:|:---:|:----:|
+| **3** | **4** | **5** |
+| **6** | **7** | **8** |
 
 *Instructions:*
 - The input will be given in input.txt file and will be in the same folder as your code.
