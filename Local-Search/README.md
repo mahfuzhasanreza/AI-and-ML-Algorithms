@@ -9,6 +9,7 @@ simulated annealing algorithm.
 5. The schedule function of simulated annealing must be such that as t increases, T decreases and eventually becomes 0.
 6. Run hill climbing for sample inputs using hamming-distance and manhattan-distance and log the results in a report. Similarly, run simulated annealing for sample inputs using hamming-distance and manhattan-distance and log the results in the same report.  
 
+<br/>
   
 *Goal State: (assume 0 means blank)*
 | 0 | 1 | 2 |
@@ -16,7 +17,7 @@ simulated annealing algorithm.
 | **3** | **4** | **5** |
 | **6** | **7** | **8** |
 
-\n
+<br/>
 
 *Instructions:*
 - The input will be given in input.txt file and will be in the same folder as your code.
