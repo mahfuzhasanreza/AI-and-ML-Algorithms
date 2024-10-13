@@ -15,8 +15,9 @@ simulated annealing algorithm.
 |:---:|:---:|:----:|
 | **3** | **4** | **5** |
 | **6** | **7** | **8** |
-  
-    
+
+\n
+
 *Instructions:*
 - The input will be given in input.txt file and will be in the same folder as your code.
 - Your code must be implemented for the given sample input format. Your output should also match the sample output format. Your code will be tested on other inputs.
